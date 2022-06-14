@@ -4,7 +4,7 @@ from selenium import webdriver
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
-driver.get('https://rackedu.com/')
+driver.get('https://www.jccosmeticos.net/')
 
 driver.implicitly_wait(1.5)
 
